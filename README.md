@@ -75,5 +75,3 @@ Use **Kernel → Restart & Run All** to reproduce all results from scratch.
 - Engineered ratio features outperformed raw count features
 - Model performs best in the $100k–$300k price range
 - PCA shows 4 components capture 80% of data variance
-```
-
