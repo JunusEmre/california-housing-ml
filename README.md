@@ -10,7 +10,6 @@ Yunus Emre Capar — Data Science student, EC Utbildning Sweden
 Python 3.11.9
 
 ## Project structure
-## Project structure
 california-housing-ml/
 ├── data/
 │   └── raw/
@@ -18,6 +17,7 @@ california-housing-ml/
 ├── notebooks/
 │   └── housing_price_prediction_california.ipynb
 ├── reports/
+│   ├── california_housing_decision_support_report.pdf
 │   └── figures/
 │       ├── model_comparison.png
 │       ├── final_model_evaluation.png
@@ -28,7 +28,6 @@ california-housing-ml/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
 ## Setup
 ```bash
 # Clone the repository
