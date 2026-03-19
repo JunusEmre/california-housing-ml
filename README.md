@@ -10,14 +10,15 @@ Yunus Emre Capar — Data Science student, EC Utbildning Sweden
 Python 3.11.9
 
 ## Project structure
+```
 california-housing-ml/
 ├── data/
 │   └── raw/
-│       └── housing.csv
+│       └── housing.csv                          ← source dataset
 ├── notebooks/
-│   └── housing_price_prediction_california.ipynb
+│   └── housing_price_prediction_california.ipynb  ← main notebook (all code + results)
 ├── reports/
-│   ├── california_housing_decision_support_report.pdf
+│   ├── ML_Uppgift1_Yunus_Emre_Capar.pdf         ← decision support report
 │   └── figures/
 │       ├── model_comparison.png
 │       ├── final_model_evaluation.png
@@ -28,6 +29,7 @@ california-housing-ml/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 ## Setup
 ```bash
 # Clone the repository
