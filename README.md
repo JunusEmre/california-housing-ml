@@ -10,18 +10,21 @@ Yunus Emre Capar — Data Science student, EC Utbildning Sweden
 Python 3.11.9
 
 ## Project structure
+## Project structure
 california-housing-ml/
 ├── data/
 │   └── raw/
 │       └── housing.csv
 ├── notebooks/
-│   ├── housing_price_prediction_california.ipynb
-│   ├── model_comparison.png
-│   ├── final_model_evaluation.png
-│   ├── feature_importance.png
-│   ├── error_analysis.png
-│   ├── pca_explained_variance.png
-│   └── pca_2d.png
+│   └── housing_price_prediction_california.ipynb
+├── reports/
+│   └── figures/
+│       ├── model_comparison.png
+│       ├── final_model_evaluation.png
+│       ├── feature_importance.png
+│       ├── error_analysis.png
+│       ├── pca_explained_variance.png
+│       └── pca_2d.png
 ├── .gitignore
 ├── requirements.txt
 └── README.md
