@@ -77,5 +77,3 @@ Use **Kernel → Restart & Run All** to reproduce all results from scratch.
 - PCA shows 4 components capture 80% of data variance
 ```
 
----
-
